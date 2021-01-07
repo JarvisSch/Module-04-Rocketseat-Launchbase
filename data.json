@@ -1,0 +1,40 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://www.google.com",
+      "name": "fafa",
+      "birth": -24211094400000,
+      "gender": "M",
+      "services": "Musculação, crossfit",
+      "created_at": 1598390891365
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://www.google.com",
+      "name": "fifi",
+      "birth": 976838400000,
+      "gender": "F",
+      "services": "crossfit, musculação, natação",
+      "created_at": 1598391035516
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://www.google.com",
+      "name": "fafa",
+      "birth": 971395200000,
+      "gender": "F",
+      "services": "crossfit, musculação",
+      "created_at": 1598392124998
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://www.google.com",
+      "name": "fifi",
+      "birth": 499478400000,
+      "gender": "F",
+      "services": "musculação",
+      "created_at": 1603396506838
+    }
+  ]
+}
