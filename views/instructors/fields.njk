@@ -40,8 +40,8 @@
                                 <input 
                                     type="radio" 
                                     name="gender" 
-                                    value="M" {% if instructor == 'M' %}
-                                    checked
+                                    value="M" {% if instructor.gender == 'M' %}
+                                        checked
                                     {% endif %}> Masculino>
                             </span>
 
@@ -49,7 +49,12 @@
                                 <input 
                                     type="radio" 
                                     name="gender" 
-                                    value="F"> Feminino>
+                                    value="F"
+                                    {% if instructor.gender == 'F' %}
+                                        checked
+                                    {% endif %}
+                                    
+                                    > Feminino>
                             </span>
                         </div>
                     </div>
