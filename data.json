@@ -1,8 +1,32 @@
 {
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=643&q=80",
+      "name": "Jean Carlos Scheimann",
+      "email": "jean-449@hotmail.com",
+      "birth": 824601600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "100",
+      "height": "180",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=643&q=80",
+      "name": "Camila de Azevedo Magalhães",
+      "email": "camilademagalhaes@gmail.com",
+      "birth": 929404800000,
+      "gender": "F",
+      "blood": "O+",
+      "weight": "70",
+      "height": "160"
+    }
+  ],
   "instructors": [
     {
       "id": 2,
-      "avatar_url": "https://www.google.com",
+      "avatar_url": "https://images.unsplash.com/photo-1577221084712-45b0445d2b00?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=643&q=80",
       "name": "fifi",
       "birth": 976838400000,
       "gender": "F",
@@ -10,40 +34,13 @@
       "created_at": 1598391035516
     },
     {
-      "id": "4",
-      "avatar_url": "https://www.google.com",
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1049&q=80",
       "name": "fifia",
       "birth": 972864000000,
       "gender": "F",
       "services": "musculação",
       "created_at": 1603396506838
-    },
-    {
-      "id": 5,
-      "avatar_url": "https://www.google.com",
-      "name": "fifi",
-      "birth": 950572800000,
-      "gender": "F",
-      "services": "crossfit, musculação , natação",
-      "created_at": 1616784821094
-    },
-    {
-      "id": 6,
-      "avatar_url": "https://www.google.com",
-      "name": "fifi",
-      "birth": 950572800000,
-      "gender": "F",
-      "services": "crossfit, musculação , natação",
-      "created_at": 1616784867073
-    },
-    {
-      "id": 7,
-      "avatar_url": "https://www.google.com",
-      "name": "fifi",
-      "birth": 499478400000,
-      "gender": "F",
-      "services": "musculação",
-      "created_at": 1616785217135
     }
   ]
 }
